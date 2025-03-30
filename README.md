@@ -1,0 +1,4 @@
+# Anomaly-Detection-in-Medicare-Providers
+
+# Abstract
+This study leverages the Medicare Physician and Other Practitioners by Provider dataset, obtained from the Centers for Medicare and Medicaid Services (CMS), to detect anomalies in Medicare payments to physicians and other practitioners for services rendered in 2022. The dataset provides detailed information on utilization, payments, submitted charges, and beneficiary demographics, organized by National Provider Identifier (NPI). Following data preparation and preprocessing, as outlined in the accompanying Data Preparation notebook, an Isolation Forest model was trained to identify anomalous patterns in the data. The results of this analysis offer insights into potential irregularities in Medicare payments, contributing to the ongoing efforts to monitor and improve the integrity of the Medicare program.
